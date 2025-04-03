@@ -7,7 +7,7 @@
 📂 Files:
 - `HW2_Final_Redacted.pdf`: Full report
 - `HW2 Q7 Divina.xlsx`: Excel file showing matrix-based calculations for portfolio weights and returns in Question 7
-- `HW2 Questions.pdf`: Original problem set
+- `HW2 Questions.pdf`: Problem set
 
 ---
 
