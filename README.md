@@ -3,7 +3,8 @@ This repository compiles selected assignments from the EC4333 Financial Economic
 
 **Course:** EC4333: Financial Economics II (NUS, AY2024/25, Semester 1)  
 **Student:** Divina Justine Widjaya (collaborators' names have been redacted for privacy)  
-**Skills Demonstrated:** Yield curve estimation, risk modeling, utility theory, mean-variance analysis, STATA, Excel
+**Tools:** STATA, Excel
+**Skills Demonstrated:** Yield curve estimation, risk modeling, utility theory, mean-variance analysis
 
 ---
 
