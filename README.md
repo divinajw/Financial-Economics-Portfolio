@@ -8,6 +8,25 @@ This repository compiles selected assignments from the EC4333 Financial Economic
 
 ---
 
+## Key Concepts Covered
+
+- Yield curve construction (par, zero, forward)
+- Polynomial & Nelson-Siegel estimation
+- Arrow-Pratt risk aversion measures
+- Taylor expansions of utility functions
+- First-order and second-order stochastic dominance (FOSD, SOSD)
+- Mean-variance optimization & constrained portfolio selection
+
+---
+
+## Learning Takeaways
+
+- Gained practical experience in yield curve fitting and hedging analysis
+- Developed deep understanding of risk aversion theory and expected utility under uncertainty
+- Applied linear algebra and matrix optimization to derive global and constrained optimal portfolios
+
+---
+
 ### 📄 Homework 1: Yield Curves & Duration Risk
 - Constructed **par yield**, **zero-coupon**, and **forward rate curves**
 - Estimated zero-coupon rates using both **polynomial regression** and **Nelson-Siegel Extended (NSE)** models
@@ -32,25 +51,6 @@ This repository compiles selected assignments from the EC4333 Financial Economic
 - `HW2 Q7 Divina.xlsx`: Excel file showing matrix-based calculations for portfolio weights and returns in Question 7
 - `HW2 Questions.pdf`: Problem set
   
----
-
-## Key Concepts Covered
-
-- Yield curve construction (par, zero, forward)
-- Polynomial & Nelson-Siegel estimation
-- Arrow-Pratt risk aversion measures
-- Taylor expansions of utility functions
-- First-order and second-order stochastic dominance (FOSD, SOSD)
-- Mean-variance optimization & constrained portfolio selection
-
----
-
-## Learning Takeaways
-
-- Gained practical experience in yield curve fitting and hedging analysis
-- Developed deep understanding of risk aversion theory and expected utility under uncertainty
-- Applied linear algebra and matrix optimization to derive global and constrained optimal portfolios
-
 ---
 
 ## Privacy & Collaboration Notes
