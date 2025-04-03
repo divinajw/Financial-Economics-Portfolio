@@ -7,7 +7,7 @@ This repository compiles selected assignments from the EC4333 Financial Economic
 
 ---
 
-### Homework 1: Yield Curves & Duration Risk
+### 📄 Homework 1: Yield Curves & Duration Risk
 - Constructed **par yield**, **zero-coupon**, and **forward rate curves**
 - Estimated zero-coupon rates using both **polynomial regression** and **Nelson-Siegel Extended (NSE)** models
 - Computed bond prices and **$durations** for a bond portfolio
@@ -15,8 +15,8 @@ This repository compiles selected assignments from the EC4333 Financial Economic
 
 📂 Files:
 - `HW1_Final_Redacted.pdf`: Full report
-- `HW1 Excel consolidated.xlsm`: Curve fitting & duration calculations
-- `HW1 Questions.pdf`: Original problem set
+- `HW1 Excel consolidated.xlsm`: Excel file showing curve fitting & duration calculations
+- `HW1 Questions.pdf`: Problem set
 
 ---
 
@@ -27,9 +27,9 @@ This repository compiles selected assignments from the EC4333 Financial Economic
 - Derived solutions to **minimum variance and constrained portfolios** using matrix algebra
 
 📂 Files:
-- `HW2_Final_Redacted.pdf`: Full report (group names removed)
+- `HW2_Final_Redacted.pdf`: Full report
 - `HW2 Q7 Divina.xlsx`: Excel file showing matrix-based calculations for portfolio weights and returns in Question 7
-- `HW2 Questions.pdf`: Original problem set
+- `HW2 Questions.pdf`: Problem set
   
 ---
 
